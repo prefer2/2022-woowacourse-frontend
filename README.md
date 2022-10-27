@@ -7,13 +7,13 @@
 ### 🐠 레벨 1 - 프로그래밍 기본
 - 9주 과정 (2022년 2월 9일 ~ 4월 7일)
 
-|       프로젝트       |                     페어                     |                                   1단계                                    |                                   2단계                                    |                      리뷰어님                     
-| :------------------: | :------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------:
-|        계산기        |    [@moonheekim0118](https://github.com/moonheekim0118)    |     [PR](https://github.com/woowacourse/javascript-calculator/pull/45)     |                                                                            |                                                    |          |
-|     자동차 경주      |    [@moonheekim0118](https://github.com/moonheekim0118)    |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/63)      |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/146)     |       [@austinpark420](https://github.com/austinpark420)       |          |
-|     행운의 로또      |  [@kkojae91](https://github.com/kkojae91)  |       [PR](https://github.com/woowacourse/javascript-lotto/pull/112)       |       [PR](https://github.com/woowacourse/javascript-lotto/pull/138)       |       [@inwalter99](https://github.com/inwalter99)       |          |
-| 나만의 유튜브 강의실 | [@soyi47](https://github.com/soyi47) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/85) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/127) |      [@glassyi](https://github.com/glassyi)      |          |
-|        자판기        | [@greenblues1190](https://github.com/greenblues1190) |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/28)   |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/65)   | [@lsw1164](https://github.com/lsw1164) |          |
+|       프로젝트       |                     페어                     |                                   1단계                                    |                                   2단계                                    |                      리뷰어님                     |           정리
+| :------------------: | :------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------:
+|        계산기        |    [@moonheekim0118](https://github.com/moonheekim0118)    |     [PR](https://github.com/woowacourse/javascript-calculator/pull/45)     |                                                                            |                                                    |          |       
+|     자동차 경주      |    [@moonheekim0118](https://github.com/moonheekim0118)    |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/63)      |     [PR](https://github.com/woowacourse/javascript-racingcar/pull/146)     |       [@austinpark420](https://github.com/austinpark420)       |        [1단계 정리](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-1%EB%8B%A8%EA%B3%84?category=1261312), [2단계 정리](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-2%EB%8B%A8%EA%B3%84?category=1261312) |
+|     행운의 로또      |  [@kkojae91](https://github.com/kkojae91)  |       [PR](https://github.com/woowacourse/javascript-lotto/pull/112)       |       [PR](https://github.com/woowacourse/javascript-lotto/pull/138)       |       [@inwalter99](https://github.com/inwalter99)       |   [1단계 정리](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-2-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312), [2단계 정리](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-2-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98-2%EB%8B%A8%EA%B3%84?category=1261312)    |
+| 나만의 유튜브 강의실 | [@soyi47](https://github.com/soyi47) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/85) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/127) |      [@glassyi](https://github.com/glassyi)      |    [1단계 정리](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312), [2단계 정리](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-3-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%AF%B8%EC%85%98-2%EB%8B%A8%EA%B3%84?category=1261312)      |
+|        자판기        | [@greenblues1190](https://github.com/greenblues1190) |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/28)   |   [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/65)   | [@lsw1164](https://github.com/lsw1164) |   [1단계 정리](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-4-%EC%9E%90%ED%8C%90%EA%B8%B0-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312)      |
 
 
 - 과정 목표
@@ -21,14 +21,6 @@
   - 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
 
 - 관련 블로그 포스트
-  - [[Level 1] 미션 1: 자동차 경주 게임 1단계](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-1%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 1: 자동차 경주 게임 2단계
-](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-1-%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-2%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 2: 로또 미션 1단계](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-2-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 2: 로또 미션 2단계](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-2-%EB%A1%9C%EB%98%90-%EB%AF%B8%EC%85%98-2%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 3: 나만의 유튜브 강의실 미션 1단계](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 3: 나만의 유튜브 강의실 미션 2단계](https://prefer2.tistory.com/entry/%EC%9A%B0%ED%85%8C%EC%BD%94-%EB%AF%B8%EC%85%98-3-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%AF%B8%EC%85%98-2%EB%8B%A8%EA%B3%84?category=1261312)
-  - [[Level 1] 미션 4: 자판기 미션 1단계](https://prefer2.tistory.com/entry/Level-1-%EB%AF%B8%EC%85%98-4-%EC%9E%90%ED%8C%90%EA%B8%B0-%EB%AF%B8%EC%85%98-1%EB%8B%A8%EA%B3%84?category=1261312)
   - [웹팩(webpack) 알러지 치료하기](https://prefer2.tistory.com/entry/%EC%9B%B9%ED%8C%A9webpack-%EC%95%8C%EB%9F%AC%EC%A7%80-%EC%B9%98%EB%A3%8C%ED%95%98%EA%B8%B0-1)
   - [Event](https://prefer2.tistory.com/entry/Javascript-Event)
   - [깊은 복사(deep copy)](https://prefer2.tistory.com/entry/Javascript-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%ACdeep-copy)
@@ -53,7 +45,6 @@
   - 프론트엔드 웹 애플리케이션에서 고려해야할 테스트 범위와 종류에 대해 학습합니다.
 
 - 관련 블로그 포스트
-  - [[Level 2] 미션 1: 페이먼츠 1, 2단계](https://prefer2.tistory.com/entry/Level-2-%EB%AF%B8%EC%85%98-1-%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-1-2%EB%8B%A8%EA%B3%84)
   - [Ref](https://prefer2.tistory.com/entry/Ref)
   - [Virtual DOM and Rendering](https://prefer2.tistory.com/entry/React-Virtual-DOM-and-Rendering)
   
@@ -63,6 +54,7 @@
 - 8주 과정 (2022년 6월 28일 ~ 8월 19일)
   - [**내 편 프로젝트**](https://www.naepyeon.site/)
     - [프로젝트 Github](https://github.com/woowacourse-teams/2022-nae-pyeon)
+    - [프로젝트 소개페이지](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%B4%ED%8E%B8?authuser=0)
     - 프론트엔드: [@soyi47](https://github.com/soyi47), [@prefer2](https://github.com/prefer2)
     - 백엔드: [@kth990303](https://github.com/kth990303), [@seungpang](https://github.com/seungpang), [@yxxnghwan](https://github.com/yxxnghwan), [@asebn1](https://github.com/asebn1)
 
@@ -101,4 +93,12 @@
 <br/>
 
 ### 🐠 레벨 5 - 보충 학습, 취업 준비
+
+
+
+### 🐠 테코톡
+
+
+[![[10분 테코톡] 도리의 Class](http://img.youtube.com/vi/HujbNZ9IWF8/0.jpg)](https://youtu.be/HujbNZ9IWF8?t=0s)
+
 
