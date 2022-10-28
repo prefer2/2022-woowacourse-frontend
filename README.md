@@ -77,7 +77,10 @@
 
 |       프로젝트       |                                    PR                                    |                          
 | :------------------: | :------------------------------------------------------------------------: | 
-|        성능 베이스캠프        |     [PR](https://github.com/woowacourse/perf-basecamp/pull/38)     |                                                        
+|        성능 베이스캠프        |     [PR](https://github.com/woowacourse/perf-basecamp/pull/38)     |  
+|       Module Typing      |     [PR](https://github.com/woowacourse/ts-module/pull/5)           |
+|       웹 접근성 높이기       |     [1단계 PR](https://github.com/woowacourse/a11y-airline/pull/31), [2단계 PR](https://github.com/woowacourse/a11y-airline/pull/69) |
+
 - 과정 목표
   - 프론트엔드 성능을 측정, 분석하고 개선해본다.
   - 성능 개선과 관련된 네트워크 키워드, 브라우저 렌더링 과정에 대한 이해도를 높인다.
@@ -89,6 +92,7 @@
   - [프론트엔드 성능 최적화 - 1
 ](https://prefer2.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-1)
   - [프론트엔드 성능 최적화 - 2](https://prefer2.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-2)
+  - [Template Literal Type](https://prefer2.tistory.com/entry/Typescript-Template-Literal-Types)
 
 <br/>
 
